@@ -1,6 +1,6 @@
 # Marketing Mix Modelling for Danone France
 
-![Danone France Logo](https://www.danone.fr/core/themes/danone_fr/img/logo.png)
+![Danone France Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.worldkidneyday.org%2Fdanone-logo%2F&psig=AOvVaw1k3MezLVdQ6rGaV1vWW4u0&ust=1682440350129000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJC2_O74wv4CFQAAAAAdAAAAABAE)
 
 Welcome to the marketing mix modelling project for Danone France! This project aims to analyze and optimize the marketing mix of Danone's products in the French market.
 
